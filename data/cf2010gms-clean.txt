@@ -62,7 +62,7 @@ Date,Team1,Team1_Score,Team2,Team2_Score
 09/04/2010,Syracuse,29,Akron,3 
 09/04/2010,Tennessee Tech,3,Arkansas,44 
 09/04/2010,Tennessee-Martin,0,Tennessee,50 
-09/04/2010,Texas,34,Rice,17 @ Houston,TX
+09/04/2010,Texas,34,Rice,17
 09/04/2010,Texas State,28,Houston,68 
 09/04/2010,UCLA,22,Kansas State,31 
 09/04/2010,Utah State,24,Oklahoma,31 
