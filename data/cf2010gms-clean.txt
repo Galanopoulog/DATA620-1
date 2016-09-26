@@ -305,7 +305,7 @@ Date,Team1,Team1_Score,Team2,Team2_Score
 10/02/2010,Stanford,31,Oregon,52 
 10/02/2010,Temple,42,Army,35 
 10/02/2010,Tennessee,14,Louisiana State,16 
-10/02/2010,Texas,20,Oklahoma,28 @ Dallas,TX
+10/02/2010,Texas,20,Oklahoma,28
 10/02/2010,Texas Christian,27,Colorado State,0 
 10/02/2010,Texas Tech,38,Iowa State,52 
 10/02/2010,Texas-El Paso,38,New Mexico,20 
