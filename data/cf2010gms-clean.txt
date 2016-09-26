@@ -796,16 +796,16 @@ Date,Team1,Team1_Score,Team2,Team2_Score
 12/31/2010,Notre Dame,33,Miami (Florida),17
 12/31/2010,South Carolina,17,Florida State,26
 12/31/2010,South Florida,31,Clemson,26
-01/01/2011 Michigan State,7,Alabama,49
-01/01/2011 Mississippi State,52,Michigan,14
-01/01/2011 Oklahoma,48,Connecticut,20
-01/01/2011 Penn State,24,Florida,37
-01/01/2011 Texas Tech,45,Northwestern,38
-01/01/2011 Wisconsin,19,Texas Christian,21
-01/03/2011 Virginia Tech,12,Stanford,40
-01/04/2011 Ohio State,31,Arkansas,26
-01/06/2011 Middle Tennessee State,21,Miami (Ohio),35
-01/07/2011 Texas A&M,24,Louisiana State,41
-01/08/2011 Pittsburgh,27,Kentucky,10
-01/09/2011 Nevada,20,Boston College,13
-01/10/2011 Oregon,19,Auburn,22
+01/01/2011,Michigan State,7,Alabama,49
+01/01/2011,Mississippi State,52,Michigan,14
+01/01/2011,Oklahoma,48,Connecticut,20
+01/01/2011,Penn State,24,Florida,37
+01/01/2011,Texas Tech,45,Northwestern,38
+01/01/2011,Wisconsin,19,Texas Christian,21
+01/03/2011,Virginia Tech,12,Stanford,40
+01/04/2011,Ohio State,31,Arkansas,26
+01/06/2011,Middle Tennessee State,21,Miami (Ohio),35
+01/07/2011,Texas A&M,24,Louisiana State,41
+01/08/2011,Pittsburgh,27,Kentucky,10
+01/09/2011,Nevada,20,Boston College,13
+01/10/2011,Oregon,19,Auburn,22
